@@ -11,11 +11,11 @@
         "src/app/app.module.ts",
         "src/app/app.config.ts",
         "src/app/app.route.ts",
-        "src/app/pwned/pwned.module.ts",
-        "src/app/pwned/account.model.ts",
-        "src/app/pwned/pwned.service.ts",
-        "src/app/pwned/asHtml.filter.ts",
-        "src/app/pwned/ngEnter.directive.ts",
-        "src/app/pwned/search.controller.ts"
+        "src/app/modules/pwned/pwned.module.ts",
+        "src/app/modules/pwned/account.model.ts",
+        "src/app/modules/pwned/pwned.service.ts",
+        "src/app/modules/pwned/asHtml.filter.ts",
+        "src/app/modules/pwned/ngEnter.directive.ts",
+        "src/app/modules/pwned/search.controller.ts"
     ]
 }
